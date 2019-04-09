@@ -1,0 +1,22 @@
+/*
+Grace Berenato
+9 April 2019
+Padua Panda Travel Agency Project
+*/
+
+
+body { 
+background-color: azure
+}
+
+
+img #beach {width: 300px; height: 200px}
+img #boats {width: 300px; height: 200px}
+img #maya {width: 300px; height: 200px}
+
+
+table {border-collapse: collapse;}
+table, td, th {border: 1px solid black;}
+thead {background-color: floralwhite}
+width: 85%;
+margin: auto;
